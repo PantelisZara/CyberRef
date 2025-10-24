@@ -68,6 +68,8 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+Also, manually install the font [ProggyCleanCENerdFont-Regular.ttf](./ProggyCleanCENerdFont-Regular.ttf) included in this repository.
+
 ## Usage
 Run the application
 ```bash
