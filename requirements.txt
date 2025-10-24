@@ -1,0 +1,10 @@
+asarPy==1.0.1
+certifi==2025.10.5
+charset-normalizer==3.4.3
+idna==3.10
+PySide6==6.10.0
+PySide6_Addons==6.10.0
+PySide6_Essentials==6.10.0
+requests==2.32.5
+shiboken6==6.10.0
+urllib3==2.5.0
