@@ -3,6 +3,8 @@
 CyberRef is a **desktop application built with PySide6** that allows users to analyze website URLs using the **VirusTotal API**.  
 It provides a modern graphical interface for scanning URLs, checking for malicious activity, viewing community votes, web trackers, and outgoing links — all in a clean, user-friendly windowed environment.
 
+<img width="224" height="300" alt="CyberRefLogo" src="https://github.com/user-attachments/assets/3adfd06e-7ee7-400e-9512-5f415a8e7ab9" />
+
 ---
 
 ##  Table of Contents
